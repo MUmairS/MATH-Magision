@@ -1,1 +1,1 @@
-# MATH-Magision
+# Math Magicians
